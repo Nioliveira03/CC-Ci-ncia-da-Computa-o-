@@ -1,0 +1,14 @@
+C:\Users\25112128\source\repos\Sistema de Alunos e Notas\bin\Debug\net10.0\Sistema de Alunos e Notas.exe
+C:\Users\25112128\source\repos\Sistema de Alunos e Notas\bin\Debug\net10.0\Sistema de Alunos e Notas.deps.json
+C:\Users\25112128\source\repos\Sistema de Alunos e Notas\bin\Debug\net10.0\Sistema de Alunos e Notas.runtimeconfig.json
+C:\Users\25112128\source\repos\Sistema de Alunos e Notas\bin\Debug\net10.0\Sistema de Alunos e Notas.dll
+C:\Users\25112128\source\repos\Sistema de Alunos e Notas\bin\Debug\net10.0\Sistema de Alunos e Notas.pdb
+C:\Users\25112128\source\repos\Sistema de Alunos e Notas\obj\Debug\net10.0\Sistema de Alunos e Notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\25112128\source\repos\Sistema de Alunos e Notas\obj\Debug\net10.0\Sistema de Alunos e Notas.AssemblyInfoInputs.cache
+C:\Users\25112128\source\repos\Sistema de Alunos e Notas\obj\Debug\net10.0\Sistema de Alunos e Notas.AssemblyInfo.cs
+C:\Users\25112128\source\repos\Sistema de Alunos e Notas\obj\Debug\net10.0\Sistema de Alunos e Notas.csproj.CoreCompileInputs.cache
+C:\Users\25112128\source\repos\Sistema de Alunos e Notas\obj\Debug\net10.0\Sistema de Alunos e Notas.dll
+C:\Users\25112128\source\repos\Sistema de Alunos e Notas\obj\Debug\net10.0\refint\Sistema de Alunos e Notas.dll
+C:\Users\25112128\source\repos\Sistema de Alunos e Notas\obj\Debug\net10.0\Sistema de Alunos e Notas.pdb
+C:\Users\25112128\source\repos\Sistema de Alunos e Notas\obj\Debug\net10.0\Sistema de Alunos e Notas.genruntimeconfig.cache
+C:\Users\25112128\source\repos\Sistema de Alunos e Notas\obj\Debug\net10.0\ref\Sistema de Alunos e Notas.dll
